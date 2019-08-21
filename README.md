@@ -1,2 +1,2 @@
 # landingPage
-This is a template for a landing page that i see on YouTube
+This page is part of a project "Portal Web de una pagina Web".
